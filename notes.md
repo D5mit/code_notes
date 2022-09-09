@@ -3,7 +3,11 @@
 
 
 ## Linux notes
-- 
+- ls -l
+- rmdir
+- mkdir -p winter/seeds/lettuce (will create alldir, also seeds)
+- cd / or cd ~
+- touch (used to create blank file or create timestamp)
 
 
 ## Git notes 
