@@ -3,7 +3,7 @@
 
 
 ## Linux notes
-
+- 
 
 
 ## Git notes 
