@@ -2,8 +2,6 @@
 
 
 
-
-
 ## Linux notes
 - mkdir winter summer
 - cd /
@@ -25,7 +23,6 @@
 - git remote add origin https://github.com/D5mit/code_notes.git
 - git push -u origin main
 - git pull 
-
 
 
 
