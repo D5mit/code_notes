@@ -3,6 +3,7 @@
 
 
 ## Linux notes
+- man
 - mkdir winter summer
 - cd /
 - cd ~
