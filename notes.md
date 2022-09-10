@@ -2,9 +2,14 @@
 
 
 
+
+
 ## Linux notes
-
-
+- mkdir winter summer
+- cd /
+- cd ~
+- mkdir -p  winter/seeds/lettuce
+- to run scripts: ./yourscript.sh
 
 ## Git notes 
 - git init
