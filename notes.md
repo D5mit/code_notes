@@ -23,6 +23,8 @@
 - echo "hello" >> notes.md
 - wc notes.md (wordcount)
 - cat file1 file2 | wc
+- diff -y file1.txt file2.txt
+- find . -name '*.md' (find files and sub directory files with .md) 
 
 ## Git notes 
 - git init
