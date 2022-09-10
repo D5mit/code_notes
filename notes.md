@@ -1,7 +1,5 @@
 
 
-
-
 ## Linux notes
 - man
 - mkdir winter summer
@@ -25,6 +23,9 @@
 - git push -u origin main
 - git pull
 - git merge comments 
+
+
+
 
 
 
