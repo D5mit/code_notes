@@ -19,10 +19,8 @@
 - tail -f filaname (continuesly shows last 10 lines)
 - date > current_date.txt 
 - date >> list_of_dates.txt
-- cat file1 file2 file3 > everything.txt
-- echo "hello" >> notes.md
-- wc notes.md (wordcount)
-- cat file1 file2 | wc
+- cat
+
 
 ## Git notes 
 - git init
@@ -33,3 +31,10 @@
 - git push -u origin main
 - git pull
 - git merge comments 
+
+
+
+
+
+
+
