@@ -3,15 +3,19 @@
 ## Linux notes
 - man
 - mkdir winter summer
-- cd /
-- cd ~
-- mkdir -p  winter/seeds/lettuce
 - to run scripts: ./yourscript.sh
 - ls -l
-- rmdir
 - mkdir -p winter/seeds/lettuce (will create alldir, also seeds)
 - cd / or cd ~
 - touch (used to create blank file or create timestamp)
+- rm carrot cat dog
+- rm -v carrot cat dog (verbose, means shows what it is doing)
+- open . (opens the current directoty) / open purple.txt (will open in desktop)
+- mv filenamecurrent filenamenew
+- mv filenamecurrnet ~/Desktop
+- mv folder/ folder/
+- cp -r folder ~/Desktop
+- cat
 
 
 ## Git notes 
