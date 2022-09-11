@@ -56,3 +56,8 @@
 - tar -czf notescombined23.tar.gz notes2.md notes3.md (tar and gzip)
 - tar -tf notescombined23.tar.gz (view files in tar file)
 - tar -xf notescombined23.tar.gz (extract tar and unzip)
+- edit the file: "~/.bashrc" to add permanent aliases
+- cat deadplayers.txt | xargs rm -v (creates input for rm)
+- who (shows who is logged on)
+- su nicola (switch to user)
+- sudo chown d5mit readme.txt (change owner)
