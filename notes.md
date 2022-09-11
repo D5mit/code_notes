@@ -1,4 +1,12 @@
-
+## Git notes 
+- git init
+- git add README.md
+- git commit -m "first commit"
+- git branch -M main
+- git remote add origin https://github.com/D5mit/code_notes.git
+- git push -u origin main
+- git pull
+- git merge comments 
 
 ## Linux notes
 - man
@@ -25,13 +33,26 @@
 - cat file1 file2 | wc
 - diff -y file1.txt file2.txt
 - find . -name '*.md' (find files and sub directory files with .md) 
-
-## Git notes 
-- git init
-- git add README.md
-- git commit -m "first commit"
-- git branch -M main
-- git remote add origin https://github.com/D5mit/code_notes.git
-- git push -u origin main
-- git pull
-- git merge comments 
+- grep google file1.txt (will search google in file1.txt)
+- grep -r "google" . (search google in all files)
+- du -h | sort -h (du is for file size, this looks for largerstr files)
+- df -h ~/Desktop/ (shows filesystem of the dir)
+- history (nice for showing commands history)
+- history (gives a command number to rin it do: !123)
+- history | grep "mkdir" (Check history for mkdir)
+- ps aux | grep "python" (list processes with a grep pipe)
+- top (show top usage in processes)
+- kill -15 1234 (not that brutal kill)
+- kill -9 1234 (brutal kill)
+- jobs (shows jobs)
+- bg 1 (run in background, 1 = jobnr)
+- fg 1 (run in foreground, 1 = jobnr)
+- gzip notes2.md (zip file)
+- gunzip notes2.md.gz (zip file)
+- gzip -kv notes2.md (zip file, keep file and verbose)
+- gunzip -kv notes2.md.gz (unzip file, keep file verbose)
+- tar -cf notes23.tar  notes2.md notes3.md (combine files into one)
+- tar -xf notes23.tar (uncombine files)
+- tar -czf notescombined23.tar.gz notes2.md notes3.md (tar and gzip)
+- tar -tf notescombined23.tar.gz (view files in tar file)
+- tar -xf notescombined23.tar.gz (extract tar and unzip)
