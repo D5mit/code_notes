@@ -61,3 +61,4 @@
 - who (shows who is logged on)
 - su nicola (switch to user)
 - sudo chown d5mit readme.txt (change owner)
+cmmod a+r text.txt (u-user, g-group, a-all / rwx)
