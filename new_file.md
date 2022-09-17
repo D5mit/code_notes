@@ -1,1 +1,1 @@
-new file
+pip freeze -> shows all packages installes:
