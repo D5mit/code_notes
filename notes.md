@@ -5,7 +5,7 @@
 - git branch -M main
 - git remote add origin https://github.com/D5mit/code_notes.git
 - git push -u origin main
-- git pull
+- git pull / git pull origin main
 - git merge comments 
 
 ## Linux notes
@@ -61,4 +61,5 @@
 - who (shows who is logged on)
 - su nicola (switch to user)
 - sudo chown d5mit readme.txt (change owner)
-cmmod a+r text.txt (u-user, g-group, a-all / rwx)
+- cmmod a+r text.txt (u-user, g-group, a-all / rwx)
+- pip freeze -> shows all packages installes 
