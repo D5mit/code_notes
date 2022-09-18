@@ -62,4 +62,19 @@
 - su nicola (switch to user)
 - sudo chown d5mit readme.txt (change owner)
 - cmmod a+r text.txt (u-user, g-group, a-all / rwx)
-- pip freeze -> shows all packages installes 
+- pip freeze -> shows all packages installes
+- openssl des3 < youfile.txt > yourfile.txt.des3 (to encrypt)
+- openssl des3 -d < yourfile.txt.des3 > yourfile.txt.decrypted (to decript)
+
+## Docker notes
+- Docker has an image and a container.  The containers runs only when needed
+- sudo dockerd (to start docker)
+- sudo docker run docker/whalesay cowsay Hello-World! (run hello world https://hub.docker.com/r/docker/whalesay)
+- sudo docker run -d ubuntu sleep 5 (runs docker container in background)
+- sudo docker ps -a (see all containers)
+- sudo docker rm <container name>  (remove container)
+- sudo docker images (to see docker images)
+- sudo docker rmi <image name> (removes docker image)
+- sudo docker pull <image> (pulls the ubuntu image and stores)
+
+- sudo docker attach a20af (bring docker background to foreground)
