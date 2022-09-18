@@ -1,8 +1,4 @@
-
-
-
-
-
+# simple text to speach program
 import gtts
 from playsound import playsound
 
