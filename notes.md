@@ -77,4 +77,47 @@
 - sudo docker rmi <image name> (removes docker image)
 - sudo docker pull <image> (pulls the ubuntu image and stores)
 
-- sudo docker attach a20af (bring docker background to foreground)
+- sudo docker attach a20af (bring docker background to foreground
+
+
+## AWS Platform training
+- IAM - accesss management 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+)
