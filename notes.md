@@ -65,6 +65,7 @@
 - pip freeze -> shows all packages installes
 - openssl des3 < youfile.txt > yourfile.txt.des3 (to encrypt)
 - openssl des3 -d < yourfile.txt.des3 > yourfile.txt.decrypted (to decript)
+- hostname -I (gives you the IP address)
 
 ## Docker notes
 - Docker has an image and a container.  The containers runs only when needed
