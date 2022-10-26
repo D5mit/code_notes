@@ -67,6 +67,9 @@
 - openssl des3 -d < yourfile.txt.des3 > yourfile.txt.decrypted (to decript)
 - hostname -I (gives you the IP address)
 
+## Vim notes
+- :bel term  (creates a terminal below the vim file, to jump from split to another split, press cntr and w and then arrow to where to split)
+
 ## Docker notes
 - Docker has an image and a container.  The containers runs only when needed
 - sudo dockerd (to start docker)
